@@ -36,7 +36,7 @@ Adil: https://github.com/ai2652-png
 
 - **Gap - Advanced layout editing:** There is limited control over the individual layout of a slide. Users can change the overall template, but there's no advanced editor for freely moving, resizing, or repositioning individual elements on the slides.
 
-- **Gap - Dedicated correction workflow:** There is no dedicated interface where users can type specific changes they want the AI to make to the slides. Adding a written feedback field would allow users to describe changes directly without having to manually correct the slides themselves or provide additional spoken input.
+- **Gap - Dedicated correction workflow:** The only available ways to make corrections or adjustments to the slides are for the presenter to verbally instruct the AI or manually trigger regeneration. There is currently no way to provide the AI with precise, text-based prompts to make specific changes to the slides in real time.
 
 ## Prior Art & Originality
 
