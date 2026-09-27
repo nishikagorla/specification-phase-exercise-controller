@@ -214,7 +214,7 @@ As a Main Presenter, I want the system to automatically trigger a rollback to th
 As a Main Speaker, I want to generate host code from my presentation view, so that my Co-Presenter can pair their secondary control panel.
 
 #### Activity Diagram
-[Link] (https://lucid.app/lucidchart/635afcc8-9751-4764-ac3b-2f7ad0646418/edit?view_items=hG6xsyIxfC~-&page=0_0&invitationId=inv_522db4d5-4c4b-419f-a6ec-6656fdf84f8b)
+[Link](https://lucid.app/lucidchart/635afcc8-9751-4764-ac3b-2f7ad0646418/edit?view_items=hG6xsyIxfC~-&page=0_0&invitationId=inv_522db4d5-4c4b-419f-a6ec-6656fdf84f8b)
 
 ## Wireframes
 
