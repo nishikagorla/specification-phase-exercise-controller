@@ -184,7 +184,18 @@ User Stories:
 #### User Story
 As a Co-Presenter, I want to send direct text prompts through my secondary control panel while the main speaker is talking, so that I can silently provide missing terminology or key facts to the AI without forcing the speaker to pause.
 
-[Link](https://lucid.app/lucidspark/4ef88773-2451-4fc7-9989-e1650afa9442/edit?viewport_loc=1992%2C-2508%2C2048%2C1036%2C0_0&invitationId=inv_560e05f6-d7e0-431f-b126-4e81e6e6cdc3)
+#### Activity Diagram
+[Link](https://lucid.app/lucidspark/4ef88773-2451-4fc7-9989-e1650afa9442/edit?viewport_loc=1992%2C-2508%2C2048%2C1036%2C0_0&invitationId=inv_560e05f6-d7e0-431f-b126-4e81e6e6cdc3) 
+
+### Co-Presenter Workflow(2) 
+
+![Co-Presenter Activity Diagram](Co-Presenter-Flow(2).png)
+
+#### User Story
+As a Co-Presenter, I want to link my instance of Slide Machine to the active presentation via a private session code, so that I can open the secondary control panel on my own device without disrupting the main speaker. 
+
+#### Activity Diagram
+[Link](https://lucid.app/lucidchart/9c42c866-245c-41c9-85ff-dd8fc3396709/edit?view_items=_b6xS5gq28EI&page=0_0&invitationId=inv_c627afd7-8d78-4e07-899e-565741232003)
 
 ### Main Presenter Workflow(1)
 
@@ -195,6 +206,15 @@ As a Main Presenter, I want the system to automatically trigger a rollback to th
 
 #### Activity Diagram
 [Link](https://lucid.app/lucidchart/9ee911ec-7760-4c7a-a04a-885810ab89ce/edit?viewport_loc=-1851%2C-1635%2C8863%2C5267%2C0_0&invitationId=inv_bfa26cde-c94e-4f0e-8cc5-0f9137e35916)
+
+### Main Presenter Workflow(2)
+![Main Presenter Acitivity Diagram (2)](Main-Speaker-Workflow-2.png) 
+
+#### User Story 
+As a Main Speaker, I want to generate host code from my presentation view, so that my Co-Presenter can pair their secondary control panel.
+
+#### Activity Diagram
+[Link] (https://lucid.app/lucidchart/635afcc8-9751-4764-ac3b-2f7ad0646418/edit?view_items=hG6xsyIxfC~-&page=0_0&invitationId=inv_522db4d5-4c4b-419f-a6ec-6656fdf84f8b)
 
 ## Wireframes
 
