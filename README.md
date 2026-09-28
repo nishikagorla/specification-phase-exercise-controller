@@ -40,7 +40,7 @@ Adil: https://github.com/ai2652-png
 
 ## Prior Art & Originality
 
-See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
+We reviewed The Slide Machine's SPEC.md (including §18 Future Work and §19 Open Questions), ROADMAP.md, DECISIONS.md, MCP.md, and all open issues and pull requests. None of these specify a secondary co-presenter controller. The closest existing work is different. Voice commands (CAP-4) are spoken by the main presenter and limited to navigation. The typed-phrase box is a developer-only debug tool. The AI-assistant (MCP) integration explicitly excludes live class use. DECISIONS.md states that multiple co-presenters are not supported. Issue 134 (real-time collaborative editing) concerns co-editing deck content, not steering generation during a live session. Our original contribution is a separate co-presenter controller that can send typed prompts into the live generation pipeline in real time without the audience seeing it.
 
 ## Stakeholders
 
