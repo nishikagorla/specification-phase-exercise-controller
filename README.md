@@ -324,7 +324,7 @@ As a Main Speaker, I want to generate host code from my presentation view, so th
 ![Update undone](<wireframes/34 Update undone.png>)
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/OxvQpekBTaLFMK7TyOiJQd/Wireframe-Diagram?node-id=0-1&t=kRewaq3GULlhxjOI-1
 
 ## Stakeholder Demo
 
