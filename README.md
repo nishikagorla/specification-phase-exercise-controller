@@ -88,6 +88,48 @@ We reviewed The Slide Machine's SPEC.md (including §18 Future Work and §19 Ope
   * Experienced immediate friction upon landing on the interface due to auto-initiating live mode.
   * Expressed strong security concerns regarding student data visibility in public dashboards.
 
+  ### User Type 3: Instructor
+
+#### Stakeholder Profile: Charli Sas (Instructor)
+
+* **Goals & Needs:**
+  1. **Preserve Natural Classroom Discussion:** Wants classroom conversations to remain flexible and does not believe everything said during class needs to be automatically recorded or converted into slides.
+  2. **Teacher-Guided Feedback:** Wants technology to help instructors recognize where students are struggling while still allowing the instructor to personally respond and reteach material.
+  3. **Recurring Mistake Detection:** Would benefit from a feature that identifies patterns in student mistakes so instructors can determine when an individual student or the entire class needs additional instruction.
+  4. **Quick Student Assessment:** Values simple tools, such as exit-ticket quizzes, that help instructors understand student comprehension at the end of a lesson.
+
+* **Problems & Frustrations:**
+  1. **Over-Automation of Classroom Content:** Does not want AI to automatically turn everything said during a lecture or discussion into written slides.
+  2. **Loss of Instructor Awareness:** Expressed concern that automated grading could distance instructors from understanding the specific concepts their students are struggling with.
+  3. **Limited Usefulness of Translation Tools:** A real-time translation feature would not be especially practical within the structure of his classroom.
+  4. **AI Replacing Instructor Judgment:** Prefers AI features that assist instructors rather than completely taking over tasks such as grading, feedback, or determining what classroom information should be preserved.
+
+* **User Testing Observations:**
+  * Responded positively to the exit-ticket quiz feature and viewed it as a useful way to evaluate student understanding.
+  * Suggested adding a feature that detects recurring student mistakes and alerts the instructor when reteaching may be necessary.
+  * Preferred AI tools that support instructor decision-making rather than automatically replacing existing teaching practices.
+
+  ### User Type 4: Student
+
+#### Stakeholder Profile: Damon (Student) 
+
+* **Goals & Needs:**
+  1. **Easier Note-Taking:** Wants technology that reduces the amount of manual note-taking required during lectures.
+  2. **Organized Lecture Content:** Values having important classroom information automatically organized into an easier-to-review format.
+  3. **Efficient Study Materials:** Wants lecture content to be transformed into useful materials that can be reviewed after class.
+  4. **Simple User Experience:** Prefers an application that is easy to understand and does not require a complicated setup process.
+
+* **Positive Feedback:**
+  1. **Overall App Concept:** Responded positively to the idea of using the application as a classroom and study tool.
+  2. **Automation:** Liked the ability of the application to reduce the amount of repetitive work students normally have to do themselves.
+  3. **Study Support:** Saw value in having lecture information available in an organized format for later review.
+  4. **Convenience:** Appreciated having multiple classroom and study features available within one application.
+
+* **User Testing Observations:**
+  * Had an overall positive reaction to the application and its usefulness for students.
+  * Viewed the automated features as helpful for reducing the effort required to capture and organize classroom information.
+  * Demonstrated interest in using the application as a supplemental tool for reviewing material outside of class.
+
 ## Product Vision Statement
 
 Our team is enhancing The Slide Machine by introducing a discreet secondary controller feature that allows a co-presenter to send direct text prompts to the AI in real time, eliminating errors caused by missed or misheard verbal cues while keeping the audience's view completely seamless and professional.
