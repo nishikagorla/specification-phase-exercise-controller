@@ -260,9 +260,115 @@ As a Main Speaker, I want to generate host code from my presentation view, so th
 
 ## Wireframes
 
+### 00. Start
+![Start](<wireframes/00 Start.png>)
+
+### 01. Dashboard
+![Dashboard](<wireframes/01 Dashboard.png>)
+
+### 02. Live lecture - listening
+![Live lecture listening](<wireframes/02 Live lecture - listening.png>)
+
+### 03. Live lecture - generated
+![Live lecture generated](<wireframes/03 Live lecture - generated.png>)
+
+### 04. Connect co-presenter
+![Connect co-presenter](<wireframes/04 Connect co-presenter.png>)
+
+### 05. Pop-up blocked
+![Pop-up blocked](<wireframes/05 Pop-up blocked.png>)
+
+### 06. Join by code
+![Join by code](<wireframes/06 Join by code.png>)
+
+### 07. Invalid or full session
+![Invalid or full session](<wireframes/07 Invalid or full session.png>)
+
+### 08. Secondary controller
+![Secondary controller](<wireframes/08 Secondary controller.png>)
+
+### 09. Processing queue
+![Processing queue](<wireframes/09 Processing queue.png>)
+
+### 10. Network failure
+![Network failure](<wireframes/10 Network failure.png>)
+
+### 11. AI unavailable
+![AI unavailable](<wireframes/11 AI unavailable.png>)
+
+### 12. Manual draft editing
+![Manual draft editing](<wireframes/12 Manual draft editing.png>)
+
+### 13. Private draft preview
+![Private draft preview](<wireframes/13 Private draft preview.png>)
+
+### 14. Edit draft text
+![Edit draft text](<wireframes/14 Edit draft text.png>)
+
+### 15. Speaker approval
+![Speaker approval](<wireframes/15 Speaker approval.png>)
+
+### 16. Published correction
+![Published correction](<wireframes/16 Published correction.png>)
+
+### 17. Rejected draft
+![Rejected draft](<wireframes/17 Rejected draft.png>)
+
+### 18. Private cue composer
+![Private cue composer](<wireframes/18 Private cue composer.png>)
+
+### 19. Speaker cue
+![Speaker cue](<wireframes/19 Speaker cue.png>)
+
+### 20. Connected controllers
+![Connected controllers](<wireframes/20 Connected controllers.png>)
+
+### 21. Auto-publish setting
+![Auto-publish setting](<wireframes/21 Auto-publish setting.png>)
+
+### 22. New-slide prompt
+![New-slide prompt](<wireframes/22 New-slide prompt.png>)
+
+### 23. New-slide preview
+![New-slide preview](<wireframes/23 New-slide preview.png>)
+
+### 24. New-slide approval
+![New-slide approval](<wireframes/24 New-slide approval.png>)
+
+### 25. New slide on stage
+![New slide on stage](<wireframes/25 New slide on stage.png>)
+
+### 26. Slide render failure
+![Slide render failure](<wireframes/26 Slide render failure.png>)
+
+### 27. Regenerating
+![Regenerating](<wireframes/27 Regenerating.png>)
+
+### 28. Stable fallback
+![Stable fallback](<wireframes/28 Stable fallback.png>)
+
+### 29. Prompt history
+![Prompt history](<wireframes/29 Prompt history.png>)
+
+### 30. Frozen audience
+![Frozen audience](<wireframes/30 Frozen audience.png>)
+
+### 31. Session ended
+![Session ended](<wireframes/31 Session ended.png>)
+
+### 32. Review while audience frozen
+![Review while audience frozen](<wireframes/32 Review while audience frozen.png>)
+
+### 33. Accepted
+![Accepted](<wireframes/33 Accepted.png>)
+
+### 34. Update undone
+![Update undone](<wireframes/34 Update undone.png>)
+
 
 ## Clickable Prototype
 
+https://www.figma.com/design/4fY6vPE6rTpBHP2NpGHazu/Final-Wireframe-Diagram?node-id=0-1&p=f&t=DoECrfMY92EnwSGe-0
 
 ## Stakeholder Demo
 
