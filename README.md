@@ -360,7 +360,7 @@ As a Main Speaker, I want to generate host code from my presentation view, so th
 ![Review while audience frozen](<wireframes/32 Review while audience frozen.png>)
 
 ### 33. Accepted
-![Accepted]()
+![Accepted](<wireframes/33 Accepted.png>)
 
 ### 34. Update undone
 ![Update undone](<wireframes/34 Update undone.png>)
