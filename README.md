@@ -372,8 +372,8 @@ https://www.figma.com/design/4fY6vPE6rTpBHP2NpGHazu/Final-Wireframe-Diagram?node
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+[Stakeholder Demo Presentation Deck](https://theslidemachine.com/d/untitled-f9124a74)
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+[Exit Ticket Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc8zvuoAWQ5vVx3s0YJ-M90dhleeAyjmiG7u-oyfXNCQv15Qw/viewform)
